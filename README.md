@@ -1,2 +1,2 @@
-# cdb-web
+# cdn-web
 Website for CDN.
